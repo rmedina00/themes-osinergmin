@@ -24,4 +24,5 @@ include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/simp
 include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/jquery.bxSlider.js"></script>';
 
 include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/swfobject.js"></script>';
+include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/ftjson.js"></script>';
 document.write(include);
