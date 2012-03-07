@@ -25,4 +25,5 @@ include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/jque
 
 include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/swfobject.js"></script>';
 include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/ftjson.js"></script>';
+include += '<script type="text/javascript" src="/osinergmin-theme/js/portal/geoxml3.js"></script>';
 document.write(include);
